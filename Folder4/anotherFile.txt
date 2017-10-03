@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AFD-38FA
+
+ Directory of c:\staples
+
+11/19/2015  02:54 PM    <DIR>          .
+11/19/2015  02:54 PM    <DIR>          ..
+11/19/2015  03:07 PM    <DIR>          Cache
+11/19/2015  02:05 PM    <DIR>          dll
+04/04/2016  11:46 AM    <DIR>          Ini
+10/20/2015  01:17 PM    <DIR>          Key
+11/19/2015  02:09 PM    <DIR>          logs
+05/18/2015  03:46 PM             2,514 RKM_Client_POS.pfx_
+11/19/2015  02:06 PM    <DIR>          ST00051_IB_Data_Protection_Bridge
+               1 File(s)          2,514 bytes
+               8 Dir(s)  160,574,447,616 bytes free
